@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="black_333333">#333333</color>
+
+    <color name="gray_999999">#999999</color>
+
+    <color name="orange_fd6c57">#fd6c57</color>
+
+    <color name="txt_silver">#999999</color>
+
+    <color name="pure_black">#000000</color>
+    <color name="bg_color">#f7f8f9</color>
+
+    <color name="hint_color">#9b9b9b</color>
+
+    <color name="title_gray">#8e8e93</color>
+
+    <color name="light_smoke">#f9f9f9</color>
+
+    <color name="pele">#98FB98</color>
+    <color name="silver">#f0f0f0</color>
+
+    <color name="txt_color">#333333</color>
+    <color name="light_black">#666666</color>
+
+    <color name="orange">#fe9654</color>
+
+
+
+
+    <color name="green">#36bd66</color>
+
+    <color name="transferent">#00000000</color>
+    <color name="viewline">#eaeaea</color>
+
+
+    <color name="smoke_gray">#cccccc</color>
+    <color name="lightgray">#e8e8e8</color>
+
+
+
+    <color name="graydark">#9398a0</color>
+
+
+    <color name="blacklight">#2f2f39</color>
+    <color name="graylight">#fafafa</color>
+
+    <color name="darkblue">#2d5da1</color>
+
+    <color name="txtcolor">#151515</color>
+
+
+
+    <color name="txt_black">#000000</color>
+
+    <color name="light_silver">#c2c4ca</color>
+
+    <color name="transperent">#00000000</color>
+
+
+    <color name="gray_f5f6fa">#f5f6fa</color>
+    <!---->
+
+    <color name="bgcolor">#fafafa</color>
+
+    <color name="lightblack">#333333</color>
+
+    <color name="blue">#4a5cd0</color>
+
+    <color name="gray">#999999</color>
+
+
+
+    <color name="black_25303c">#25303c</color>
+
+    <color name="green_15d1a4">#15d1a4</color>
+
+    <color name="grey_828990">#828990</color>
+
+    <color name="red_ff577f">#ff577f</color>
+
+    <color name="bg_fafafa">#fafafa</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="viewLine">#50acacac</color>
+
+
+    <color name="light_white">#fff8f9</color>
+
+    <color name="white_opecity">#dfdede</color>
+
+    <color name="red">#f22c2c</color>
+
+    <color name="skyblue_dcf2f0">#dcf2f0</color>
+    <color name="pink_ffecf0">#ffecf0</color>
+
+    <color name="main_color">#2b6777</color>
+
+
+    <color name="border_d1d1d1">#d1d1d1</color>
+
+
+
+    <color name="myblue">#255bac</color>
+    <color name="view_line">#e3e3e3</color>
+
+
+
+</resources>

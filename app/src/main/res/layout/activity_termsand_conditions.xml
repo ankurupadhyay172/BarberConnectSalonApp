@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+
+    <include layout="@layout/toolbar_subcategory"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26.7dp"
+        android:layout_marginEnd="16.7dp"
+        android:layout_marginStart="16.7dp"
+        android:textColor="@color/black_25303c"
+        android:textSize="18.3sp"
+        android:includeFontPadding="false"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/introduction"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26.7dp"
+        android:layout_marginEnd="16.7dp"
+        android:layout_marginStart="16.7dp"
+        android:textColor="@color/grey_828990"
+        android:textSize="15sp"
+        android:lineSpacingExtra="3dp"
+        android:includeFontPadding="false"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/tandc"/>
+    <TextView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26.7dp"
+        android:layout_marginEnd="16.7dp"
+        android:layout_marginStart="16.7dp"
+        android:textColor="@color/black_25303c"
+        android:textSize="18.3sp"
+        android:lineSpacingExtra="3dp"
+        android:includeFontPadding="false"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/_2_registration_access_and_use"/>
+    <TextView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26.7dp"
+        android:layout_marginEnd="16.7dp"
+        android:layout_marginStart="16.7dp"
+        android:textColor="@color/grey_828990"
+        android:textSize="15sp"
+        android:lineSpacingExtra="3dp"
+        android:includeFontPadding="false"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/policy2"/>
+</LinearLayout>

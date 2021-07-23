@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="wrap_content"
+    >
+
+
+    <LinearLayout
+
+        android:layout_marginHorizontal="3dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <EditText
+        android:inputType="textCapWords"
+        android:hint="Write here Service"
+        android:layout_marginRight="3dp"
+        android:layout_weight="1"
+        android:id="@+id/services_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+        <EditText
+            android:inputType="number"
+            android:hint="Price"
+            android:layout_weight="1.8"
+            android:id="@+id/services_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:id="@+id/linearalert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    </LinearLayout>
+
+
+
+
+    <Button
+        android:layout_marginHorizontal="3dp"
+        android:text="Add"
+        android:id="@+id/addedittxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_marginHorizontal="3dp"
+        android:text="Submit"
+        android:id="@+id/Submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

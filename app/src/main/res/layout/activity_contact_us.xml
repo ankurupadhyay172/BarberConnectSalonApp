@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    >
+
+    <include layout="@layout/toolbar_subcategory" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clipToPadding="false"
+            android:orientation="vertical"
+            android:paddingBottom="30dp">
+
+            <EditText
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16.7dp"
+                android:layout_marginTop="26.7dp"
+                android:layout_marginEnd="16.7dp"
+                android:background="@drawable/rect_gray"
+                android:fontFamily="@font/sf_pro_display_medium"
+                android:hint="Subject / Topic"
+                android:includeFontPadding="false"
+                android:inputType="text"
+                android:paddingStart="20.7dp"
+                android:paddingTop="20dp"
+                android:paddingEnd="20.7dp"
+                android:paddingBottom="20dp"
+                android:textColor="@color/black_25303c"
+                android:textColorHint="@color/grey_828990"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="258dp"
+                android:layout_marginStart="16.7dp"
+                android:layout_marginTop="26.7dp"
+                android:layout_marginEnd="16.7dp"
+                android:background="@drawable/rect_gray"
+                android:orientation="vertical"
+                android:paddingStart="20.7dp"
+                android:paddingTop="20dp"
+                android:paddingEnd="20.7dp"
+                android:paddingBottom="20dp">
+
+                <EditText
+                    android:id="@+id/message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/transparent"
+                    android:fontFamily="@font/sf_pro_display_medium"
+                    android:hint="Write Your Message"
+                    android:includeFontPadding="false"
+                    android:inputType="text"
+                    android:lineSpacingExtra="3dp"
+                    android:maxLines="10"
+                    android:scrollbars="none"
+                    android:textColor="@color/black_25303c"
+                    android:textColorHint="@color/grey_828990"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <ProgressBar
+                android:visibility="gone"
+                android:indeterminateTint="@color/white"
+                android:id="@+id/btnProgress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16.7dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="16.7dp"
+                android:background="@drawable/dark_green_rect"
+                android:fontFamily="@font/sf_pro_display_semibold"
+                android:includeFontPadding="false"
+                android:text="Submit"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+            <Button
+                android:id="@+id/btnNext"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16.7dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginEnd="16.7dp"
+                android:background="@drawable/dark_green_rect"
+                android:fontFamily="@font/sf_pro_display_semibold"
+                android:includeFontPadding="false"
+                android:text="Submit"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="8.3dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingStart="16.7dp"
+            android:paddingTop="26.7dp"
+            android:paddingEnd="16.7dp"
+            android:paddingBottom="26.7dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/sf_pro_display_regular"
+                android:includeFontPadding="false"
+                android:text="You can also call us"
+                android:textColor="@color/black_25303c"
+                android:textSize="16.7sp" />
+
+            <TextView
+                android:id="@+id/call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Call"
+                android:textColor="@color/black_25303c"
+                android:textSize="15sp"
+                android:fontFamily="@font/sf_pro_display_medium"
+                android:includeFontPadding="false"
+                android:drawableStart="@drawable/ic_call"
+                android:drawablePadding="11.7dp"
+                android:paddingTop="11dp"
+                android:paddingBottom="10.7dp"
+                android:paddingStart="20.3dp"
+                android:paddingEnd="20.3dp"
+                android:background="@drawable/rect_black_border"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

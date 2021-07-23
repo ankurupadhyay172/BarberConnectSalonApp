@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:contentInsetStart="0dp"
+    android:background="@color/green_15d1a4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16.7dp"
+        android:layout_marginStart="16.7dp"
+        android:layout_gravity="center">
+        <ImageView
+            android:id="@+id/imgBack"
+            android:layout_width="37.3dp"
+            android:layout_gravity="center"
+            android:layout_height="37.3dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/back_black"
+            app:tint="@color/white" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="15dp">
+
+            <TextView
+                android:id="@+id/tvBookingCanceled"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18.3sp"
+                android:fontFamily="@font/sf_pro_display_semibold"
+                android:includeFontPadding="false"
+                android:textColor="@color/white"
+                android:text="Booking Status"/>
+            <TextView
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:fontFamily="@font/sf_pro_display_medium"
+                android:includeFontPadding="false"
+                android:textColor="@color/white"
+                android:text="@string/id_1231313"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/option"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:includeFontPadding="false"
+            android:textColor="@color/white"
+            android:text="@string/help"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:fontFamily="@font/sf_pro_display_medium"/>
+    </LinearLayout>
+</androidx.appcompat.widget.Toolbar>

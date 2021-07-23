@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">BarberConnectSalonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="lorem_ipsum_is_simply_dummy_ntext_of_the_printing">Lorem Ipsum is simply dummy \ntext of the printing</string>
+    <string name="welcome">Welcome!</string>
+    <string name="log_in">log in</string>
+    <string name="verify_your_mobile">Verify Your Mobile</string>
+    <string name="we_have_sent_4_digit_code_on">We have sent 4 digit code on</string>
+    <string name="pin_content_desc">PIN input field</string>
+    <string name="_00_00">00:00</string>
+    <string name="resend">Resend</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="register">register</string>
+    <string name="enter_address_details">Enter address details</string>
+    <string name="change">Change</string>
+    <string name="tag_this_location">Tag this Location</string>
+    <string name="save_address">Save address</string>
+    <string name="service_not_available_on_nselected_location">Service not available on \nselected location</string>
+    <string name="please_select_another_location">Please select another location</string>
+    <string name="our_services">Our Services</string>
+    <string name="popular_services">Popular Services</string>
+    <string name="view_all">View all</string>
+    <string name="we_provide_over_50_services_nat_your_doorstep">We provide over 50+ services\nat your doorstep</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_nthe_printing_and_typesetting_industry">Lorem Ipsum is simply dummy text of\nthe printing and typesetting industry.</string>
+    <string name="_1000_trusted_nservice_professionals">1000+ Trusted\nService Professionals</string>
+    <string name="_1_million_nhappy_customers">1 Million+\nHappy Customers</string>
+    <string name="skip">Skip</string>
+    <string name="your_location">Your Location</string>
+    <string name="flat_house_number">Flat/House number</string>
+    <string name="complete_address">Complete Address*</string>
+    <string name="home">Home</string>
+    <string name="work">Work</string>
+    <string name="other">Other</string>
+    <string name="eg_john_s_house">eg. john’s House</string>
+    <string name="ok">ok</string>
+    <string name="location">Location</string>
+    <string name="vadodara_guajrat">Vadodara, Guajrat</string>
+    <string name="hello_john">Hello John !</string>
+    <string name="search">Search</string>
+    <string name="cleaning_services">Cleaning Services</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full name</string>
+    <string name="_9429283901">9429283901</string>
+    <string name="profile">Profile</string>
+    <string name="john_doe">John Doe</string>
+    <string name="edit">Edit</string>
+    <string name="credited_amount">Credited amount</string>
+    <string name="_15">$15</string>
+    <string name="manage_address">Manage Address</string>
+    <string name="contact_us">Contact us</string>
+    <string name="share_with_friend">Share With Friend</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="sign_out">Sign Out</string>
+    <string name="need_help_with_booking">Need help with booking?</string>
+    <string name="description">This following sets out the terms and conditions on which you may use the content onbusiness-standard.com website, business-standard.com\'s mobile browse</string>
+    <string name="policy1">
+        This following sets out the terms and conditions on which you may use the content on business-standard.com website, business-standard.com\'s mobile browser site, Business Standard instore Applications and other digital publishing services (www.smartinvestor.in, www.bshindi.com and www.bsmotoring,com) owned by Business Standard Private Limited, all the services herein will be referred to as Business Standard Content Services.</string>
+    <string name="_1_introduction">1) Introduction</string>
+    <string name="_2_registration_access_and_use">2) Registration Access and Use</string>
+    <string name="policy2">
+        We welcome users to register on our digital platforms. We offer the below mentioned registration services which may be subject to change in the future. All</string>
+    <string name="bookings">Bookings</string>
+    <string name="bathroom_cleaning">Bathroom Cleaning</string>
+    <string name="wed_24_jul_20_at_7_am">Wed 24 Jul’20 at 7 am</string>
+    <string name="_55">$55</string>
+    <string name="paid">Paid</string>
+    <string name="subject_topic">Subject / Topic</string>
+    <string name="write_your_message">Write your message...</string>
+    <string name="submit">submit</string>
+    <string name="you_can_call_us_also">You can call us also!</string>
+    <string name="call">Call</string>
+    <string name="office">Office</string>
+    <string name="_601_602_galav_chamber_dairyman_sayajigunj_alkapuri_vadodara_390011">601-602 Galav chamber, dairyman,sayajigunj, Alkapuri, Vadodara, 390011</string>
+    <string name="add_change"><u>Add/ Change</u></string>
+    <string name="update">update</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="booking_canceled">Booking Canceled</string>
+    <string name="id_1231313">ID #1231313</string>
+    <string name="help">HELP</string>
+    <string name="cancel_reason">Cancel Reason:</string>
+    <string name="changed_my_mind">Changed my mind</string>
+    <string name="simply_dummy_text_of_the_priting_type_setting_simply_dummy_text_of_the_simply_dummy_text_of_the_priting_type_setting">
+        Simply dummy text of the priting type setting\nSimply dummy text of the Simply dummy text of\nthe priting type setting</string>
+    <string name="service_schedule_on_wed_24_jul_20_at_7_am">Service Schedule on Wed 24 Jul\'20 at 7 am</string>
+    <string name="provider">Provider</string>
+    <string name="booking_status">Booking Status</string>
+    <string name="service_otp">Service OTP</string>
+    <string name="share_this_code_with_vendor_nin_personal">Share this code with vendor\nin personal</string>
+    <string name="_3231">3231</string>
+    <string name="time_details">Time Details</string>
+    <string name="service_address">Service Address</string>
+    <string name="start_service_time">Start service time</string>
+    <string name="txt_deash">---</string>
+    <string name="end_service_time">End service time</string>
+    <string name="booked_on">Booked on</string>
+    <string name="_4_5">4.5</string>
+    <string name="by_124_customers">by 124 customers</string>
+    <string name="service_completed">Service Completed</string>
+    <string name="_145">145</string>
+    <string name="pending">Pending</string>
+    <string name="payment_details">Payment details</string>
+    <string name="trxn_id">Trxn Id</string>
+    <string name="view_invoice">(View invoice)</string>
+    <string name="_132131121">132131121</string>
+    <string name="cart_total">Cart Total</string>
+    <string name="_50">$50</string>
+    <string name="convenience_charges">Convenience Charges</string>
+    <string name="_15_off">15% off</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="total">Total</string>
+    <string name="online">(Online)</string>
+    <string name="_2_ac_repair">2 Ac Repair</string>
+    <string name="_60"><strike>$60</strike></string>
+    <string name="txt_1">1</string>
+    <string name="john_deo">John Deo</string>
+    <string name="completed">Completed</string>
+    <string name="service_completed_on_wed_24_jul_20_at_7_am">Service Completed on Wed 24 Jul\'20 at 7 am</string>
+    <string name="review_amp_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="feedback">Feedback</string>
+    <string name="simply_dummy_text_of_the_priting_type_setting_simply_dummy_text_of_the_simply_dummy_text_of_the_priting_type_setting_simply_dummy_text_of_the_simply_dummy_text_of_the">Simply dummy text of the priting type setting Simply dummy text of the Simply dummy text of the priting type setting Simply dummy text of the Simply dummy text of the</string>
+    <string name="service_provider_ratings">Service Provider Ratings</string>
+    <string name="service_ratings">Service Ratings</string>
+    <string name="urban_service_ratings">Urban Service Ratings</string>
+    <string name="pro_home_service_rating">Pro Home Service Rating</string>
+    <string name="write_feedback_optional">Write Feedback (optional)</string>
+    <string name="confirm_cancel">confirm cancel</string>
+    <string name="select_reason_for_cancellation">Select Reason for Cancellation</string>
+    <string name="done">Done</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="txt_4">4</string>
+    <string name="today">Today</string>
+    <string name="_10_00_am">10:00 Am</string>
+    <string name="reschedule">Reschedule</string>
+    <string name="cancel">Cancel</string>
+    <string name="go_to_home">GO to home</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="next">Next</string>
+    <string name="get_15_off">Get 15% off</string>
+    <string name="coupon_discount">get 50% off on min. Billing amount of $39. Maximum discount will be $5</string>
+    <string name="apply">Apply</string>
+    <string name="placing_your_request">Placing your Request….</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="use_credit_10">Use Credit ($10)</string>
+    <string name="pay_using">Pay Using</string>
+    <string name="pay_online">Pay Online</string>
+    <string name="upi_net_banking_wallet">UPI, Net banking, wallet</string>
+    <string name="cash">Cash</string>
+    <string name="pay_money_to_our_delivery_boy_by_cash_nwhen_service_is_done">Pay money to our delivery boy by cash\nwhen service is done.</string>
+    <string name="pay_after_service">Pay After Service</string>
+    <string name="pay_money_after_service_by_online_payment_nsystem">Pay money after service by online payment\nSystem.</string>
+    <string name="service_address_and_time">Service Address and Time</string>
+    <string name="_4_6_2020_at_7_am">4/6/2020 at 7 am</string>
+    <string name="txt_Online">Online</string>
+    <string name="txt_services">Services</string>
+    <string name="add">+ Add</string>
+    <string name="customer_reviews">Customer Reviews</string>
+    <string name="title_1">Title 1</string>
+    <string name="simply_dummy_text_of_the_priting_type_setting_nsimply_dummy_text_of_the">Simply dummy text of the priting type setting\nSimply dummy text of the</string>
+    <string name="jun_13_2020">Jun 13, 2020</string>
+    <string name="_5">5</string>
+    <string name="simply_dummy_text_of_the_priting_type_setting_simply_dummy_text_of_the_simply_dummy_text_of_the_priting_type_setting_simply_dummy_text_of_the">Simply dummy text of the priting type setting Simply dummy text of the Simply dummy text of the priting type setting Simply dummy text of the</string>
+    <string name="packages">Packages</string>
+    <string name="_1_ac_installation">1 Ac Installation</string>
+    <string name="_150">$150</string>
+    <string name="_30_mint">30 mint</string>
+    <string name="_200"><strike>$200</strike></string>
+    <string name="ac_service">Ac Service</string>
+    <string name="simply_dummy_text_of_the_npriting_typesetting">Simply dummy text of the\npriting typesetting</string>
+
+
+    <string name="introduction">TERMS AND CONDITIONS
+by purchasing through this app you will be accepting the terms stated below.</string>
+
+    <string name="tandc">
+1. If Any Issues Are Occured During Booking Salon Can Handle .\n
+2. Salon Should Clear Their All Payments On Time Otherwise Salon Can Temporarily Or Permanently Removed From App.\n
+3. User Mobile Should Never Be Miss Used For Personal Reasons.\n
+</string>
+
+
+    <string name="tandctitle">Terms and Conditions</string>
+</resources>

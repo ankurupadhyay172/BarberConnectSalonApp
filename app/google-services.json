@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "238534975720",
+    "firebase_url": "https://barber-74604.firebaseio.com",
+    "project_id": "barber-74604",
+    "storage_bucket": "barber-74604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238534975720:android:800a50dace427543a0695d",
+        "android_client_info": {
+          "package_name": "com.androidcafe.barber_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoZLR9el4rqkF068VclS5Y0jJUzm7YjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238534975720:android:41e0c3cbdd3f2a8ba0695d",
+        "android_client_info": {
+          "package_name": "com.androidcafe.barberconnectsalonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoZLR9el4rqkF068VclS5Y0jJUzm7YjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238534975720:android:ba82f4f4618bc4aca0695d",
+        "android_client_info": {
+          "package_name": "com.ankurupadhyay.barberconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238534975720-21cu27a1loa0nnpf3s55n5t9ruld87sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankurupadhyay.barberconnect",
+            "certificate_hash": "18c65739330c80effaad1edf5ec0ec96a2bfb899"
+          }
+        },
+        {
+          "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoZLR9el4rqkF068VclS5Y0jJUzm7YjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238534975720:android:03c75e2811e42458",
+        "android_client_info": {
+          "package_name": "com.example.ankur.androidbarberstaffapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238534975720-brqn9i298cvdt8ldvol9he717oofvrup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankur.androidbarberstaffapp",
+            "certificate_hash": "861ed0a26503f01c00e6ef4d5f9f36fd51c1fb2a"
+          }
+        },
+        {
+          "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoZLR9el4rqkF068VclS5Y0jJUzm7YjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238534975720:android:31fc9bbb66b529bb",
+        "android_client_info": {
+          "package_name": "com.example.ankur.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238534975720-g9ls3q9jhphst99m1n9gvucbgc9pr5hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ankur.barber",
+            "certificate_hash": "861ed0a26503f01c00e6ef4d5f9f36fd51c1fb2a"
+          }
+        },
+        {
+          "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoZLR9el4rqkF068VclS5Y0jJUzm7YjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238534975720-pc6sbs2it1djrv8h85j7e2ge2ct7echt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
